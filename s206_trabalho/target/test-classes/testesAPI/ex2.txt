@@ -1,0 +1,18 @@
+Pergunta 1: Apenas uma suíte de teste foi desenvolvida.
+
+Pergunta 2: Os testes são automatizados e escritos em Gherkin, indicando a possibilidade de
+uso de ferramentas de automação de testes.
+
+Pergunta 3: Enquadram-se na camada de testes de API, focalizando as interações e
+comportamentos da interface de programação.
+
+Pergunta 4: São predominantemente funcionais, direcionados para validar o comportamento
+dos componentes da API, como a obtenção de personagens, filtragem por status e informações
+de episódios.
+
+Pergunta 5: Não se configuram como testes End-to-End, concentrando-se em aspectos
+específicos da API em vez de abranger todo o fluxo de interações do usuário.
+
+Pergunta 6: Para garantir a eficácia em modo de regressão, é crucial manter um ambiente
+controlado, dados de teste consistentes, integrar a execução dos testes no processo de
+integração contínua e realizar a manutenção contínua dos testes à medida que o código evolui.
